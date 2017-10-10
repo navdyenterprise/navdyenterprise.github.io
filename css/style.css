@@ -817,13 +817,14 @@
 	{
 		position: relative;
 		margin: 0;
-		background-image:			url('images/overlay.png'),			url('../images/header.jpg');
-		background-size:			auto,								cover;
+		background-image:			url('../images/header-1.jpg');
+		background-size:			cover;
 		background-position:		top left,							center center;
-		background-repeat:			repeat,								no-repeat;
+		background-repeat:			no-repeat;
 		padding: 14em 0 14em 0;
 		text-align: center;
 		color: #fff;
+		background-width: 100%;
 	}
 	
 		#header header
